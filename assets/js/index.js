@@ -1,4 +1,4 @@
-var words = ['python exploit.py'],
+var words = ['pwnc4m@fuckxxx:~$ python exploit.py','pwnc4m@fuckxxx:~$ cat flag.txt','pwnc4m@fuckxxx:~$ echo "hello" | ./xor 22', 'pwnc4m@fuckxxx:~$ echo "67 72 65 61 74 20 6a 6f  62" > hex.txt'],
     part,
     i = 0,
     offset = 0,
