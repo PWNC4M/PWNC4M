@@ -11,7 +11,7 @@ You can find out in different social:<br /><br />
 
 
 team_members = [ <br />
-&nbsp;&nbsp;&nbsp;&nbsp;["giorgiosld"](https://github.com/sldgr99) <br /> 
+&nbsp;&nbsp;&nbsp;&nbsp;["giorgiosld"](https://github.com/giorgiosld) <br /> 
 &nbsp;&nbsp;&nbsp;&nbsp;["Feedz"](https://github.com/FeeeDz) <br />
 &nbsp;&nbsp;&nbsp;&nbsp;"Retr0mus" <br />
 &nbsp;&nbsp;&nbsp;&nbsp;["popoff"](https://github.com/flaviopopoff) <br />
