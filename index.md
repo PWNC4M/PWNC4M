@@ -6,3 +6,6 @@ layout: page
 ---
 
 ![Logo](/assets/image/logo.png)
+
+pwnc4m@fuckxxx:~$ python exploit.py 
+{: class="word"}
