@@ -7,6 +7,9 @@ permalink: /about/
 This is the blog about PWNC4M. We are a ctf team of University of Camerino
 You can find out in different social:
 
-# TEAM MEMBERS
+team_members = [ <br />
+&nbsp;&nbsp;&nbsp;&nbsp;"giorgiosld" <br /> &nbsp;&nbsp;&nbsp;&nbsp;"Feedz" <br /> &nbsp;&nbsp;&nbsp;&nbsp;"Retr0mus" <br /> &nbsp;&nbsp;&nbsp;&nbsp;"popoff" <br />
+&nbsp;&nbsp;&nbsp;&nbsp;"Foxyy" <br /> &nbsp;&nbsp;&nbsp;&nbsp;"HTTPiego" <br /> &nbsp;&nbsp;&nbsp;&nbsp;"turtulin" <br /> &nbsp;&nbsp;&nbsp;&nbsp;"404" <br />
+]
 
-giorgiosld <br /> Feedz <br /> Retr0mus <br /> popoff <br /> Foxyy <br /> HTTPiego <br /> turtulin <br /> 404
+print(team_members)
