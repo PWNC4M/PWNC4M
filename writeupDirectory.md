@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Ctf
+title: CTF
 permalink: /writeups/
 ---
 
-repo di tutte le chall
+repo di tutti i ctf svolti
 
-# [ByuCTF](/writeups/byuctf/byu-ctf)
+# [BYUCTF](/writeups/byuctf/byu-ctf)
 
+# [WANICTF](/writeups/wanictf/wanictf)
