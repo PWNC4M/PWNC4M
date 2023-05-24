@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "First post"
+title:  "Byu CTF"
 date:   2023-05-24 14:18 +0200
-categories: byuctf writeup
+categories: writeups byuctf
 ---
 Questo è una directory di links delle writeup di byu <br />
-[web](/byuctf/writeup/web-directory)
+[web](/writeups/byuctf/web-directory)

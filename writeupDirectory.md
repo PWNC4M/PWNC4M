@@ -6,5 +6,5 @@ permalink: /writeups/
 
 repo di tutte le chall
 
-# [ByuCTF](/byuctf/writeup/byu-directory)
+# [ByuCTF](/writeups/byuctf/byu-directory)
 
