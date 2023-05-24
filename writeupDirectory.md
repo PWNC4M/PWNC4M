@@ -4,8 +4,8 @@ title: CTF
 permalink: /writeups/
 ---
 
-repo di tutti i ctf svolti
+ Collection of writeups
 
-# [BYUCTF](/writeups/byuctf/byu-ctf)
+# [BYUCTF](/writeups/byuctf/byuctf)
 
 # [WANICTF](/writeups/wanictf/wanictf)

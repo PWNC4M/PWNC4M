@@ -13,12 +13,12 @@ You can find out in different social:<br /><br />
 team_members = [ <br />
 &nbsp;&nbsp;&nbsp;&nbsp;["giorgiosld"](https://github.com/giorgiosld) <br /> 
 &nbsp;&nbsp;&nbsp;&nbsp;["Feedz"](https://github.com/FeeeDz) <br />
-&nbsp;&nbsp;&nbsp;&nbsp;"Retr0mus" <br />
+&nbsp;&nbsp;&nbsp;&nbsp;["Retr0mus"]() <br />
 &nbsp;&nbsp;&nbsp;&nbsp;["popoff"](https://github.com/flaviopopoff) <br />
-&nbsp;&nbsp;&nbsp;&nbsp;"Foxyy" <br /> 
+&nbsp;&nbsp;&nbsp;&nbsp;["Foxyy"]() <br /> 
 &nbsp;&nbsp;&nbsp;&nbsp;["HTTPiego"](https://github.com/HTTPiego) <br /> 
 &nbsp;&nbsp;&nbsp;&nbsp;["turtulin"](https://github.com/turtulin) <br /> 
-&nbsp;&nbsp;&nbsp;&nbsp;"404" <br />
+&nbsp;&nbsp;&nbsp;&nbsp;["404"]() <br />
 ]
 
 print(team_members)
