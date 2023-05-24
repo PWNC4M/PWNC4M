@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Ctf participants
+title: Ctf
 permalink: /writeups/
 ---
 
 repo di tutte le chall
 
-# [ByuCTF](/writeups/byuctf/byu-directory)
+# [ByuCTF](/writeups/byuctf/byu-ctf)
 
